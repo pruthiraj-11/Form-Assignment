@@ -7,14 +7,10 @@ This project is a React application that implements Sign Up and Login forms usin
 1. Clone the repository to your local machine.
 
 2. Install the dependencies:
-   \`\`\`
    npm install
-   \`\`\`
 
 3. Run the development server:
-   \`\`\`
    npm run dev
-   \`\`\`
 
 4. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
