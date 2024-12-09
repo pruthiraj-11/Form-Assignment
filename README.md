@@ -1,6 +1,6 @@
-# Form using React JS
+# Form using React.js
 
-This project is a React application that implements Sign Up and Login forms using Formik for form handling and validation. It's built with Next.js, TypeScript, and Tailwind CSS.
+This project is a React application that implements Sign Up and Login forms using Formik for form handling and validation. It's built with React.js Next.js, TypeScript, and Tailwind CSS.
 
 ## How to Run the Project
 
