@@ -1,4 +1,4 @@
-# Auth Forms Project
+# Form Project
 
 This project is a React application that implements Sign Up and Login forms using Formik for form handling and validation. It's built with Next.js, TypeScript, and Tailwind CSS.
 
@@ -74,14 +74,4 @@ This project is a React application that implements Sign Up and Login forms usin
 6. **Responsiveness**: While the UI is designed to be responsive, it may need further optimization for a wide range of devices and screen sizes.
 
 7. **Browser Compatibility**: The application is built with modern web technologies and may not support older browsers without additional polyfills or adjustments.
-
-## Future Enhancements
-
-- Implement actual authentication with a backend service
-- Add more robust error handling and user feedback
-- Implement unit and integration tests
-- Enhance accessibility features
-- Add support for social login options
-- Implement a password reset functionality
-\`\`\`
 
