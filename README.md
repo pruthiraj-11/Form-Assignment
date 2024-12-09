@@ -42,23 +42,6 @@ This project is a React application that implements Sign Up and Login forms usin
    - Success messages upon form submission
    - "Remember Me" functionality for login
 
-## Project Structure
-
-\`\`\`
-/app
-  layout.tsx
-  page.tsx
-  globals.css
-/components
-  Button.tsx
-  LoginForm.tsx
-  PasswordStrength.tsx
-  SignUpForm.tsx
-/utils
-  localStorage.ts
-  validation.ts
-\`\`\`
-
 ## Assumptions and Limitations
 
 1. **Backend Integration**: This project focuses on the frontend implementation. It assumes that a backend API would be integrated for actual authentication and data persistence.
