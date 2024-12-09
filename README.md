@@ -83,7 +83,5 @@ This project is a React application that implements Sign Up and Login forms usin
 - Enhance accessibility features
 - Add support for social login options
 - Implement a password reset functionality
-
-Feel free to contribute to this project by submitting pull requests or opening issues for any bugs or feature requests.
 \`\`\`
 
